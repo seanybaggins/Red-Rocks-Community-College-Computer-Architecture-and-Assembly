@@ -1,5 +1,5 @@
 [book]
-authors = ["Sean Link" "Diane Rhodes"]
+authors = ["Sean Link", "Diane Rhodes"]
 language = "en"
 src = "src"
 title = "Red Rocks Computer Architecture and Assembly"
